@@ -1,0 +1,169 @@
+#header {
+	border-bottom-color: #666;
+	/* [disabled]border-bottom-style: none; */
+	border-right-color: #666;
+	border-right-style: none;
+	height: 135px;
+	width: 785px;
+	font-size: 60px;
+	color: #0C3;
+	font-weight: bolder;
+	text-align: left;
+	float: left;
+}
+#spacer {
+	height: 135px;
+	width: 150px;
+	float: left;
+}
+
+
+#vertnav {
+	width: 150px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #000;
+	height: 635px;
+	float: left;
+	padding-top: 60px;
+}
+#copyright {
+	color: #000;
+	float: left;
+	height: 30px;
+	width: 785px;
+	font-size: 12px;
+	line-height: 35px;
+	text-align: center;
+	font-family: "Times New Roman", Times, serif;
+	background-color: #7789B1;
+}
+
+#footer {
+	height: 180px;
+	width: 765px;
+	float: left;
+	font-size: 17px;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	background-color: #7789B1;
+	padding: 10px;
+	font-style: italic;
+}
+#location_footer {
+	float: left;
+	width: 775px;
+	height: 50px;
+	background-color: #6E89A8;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 12px;
+	text-align: center;
+	padding-right: 10px;
+}
+
+#divbody {
+	font-size: 18px;
+	width: 775px;
+	float: left;
+	height: 450px;
+	border: 5px solid #CCC;
+}
+
+#location_body {
+	float: left;
+	height: 590px;
+	width: 785px;
+	background-color: #6E89A8;
+	/*line-height: 0px;*/
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 18px;
+	/*font-style: italic;*/
+	font-weight: bold;
+}
+#header_contact {
+	height: 135px;
+	width: 400px;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 16px;
+	color: #C93;
+	text-align: right;
+	padding-right: 20px;
+	font-style: italic;
+	font-weight: bold;
+	line-height: 5px;
+	float: right;
+}
+
+
+
+#main #vertnav a   {
+	display: block;
+	line-height: 41px;
+	height: 45px;
+	text-align: center;
+	text-decoration: none;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 23px;
+	color: #6E89BE;
+	background-color: #333;
+	font-style: italic;
+	font-weight: bold;
+
+}
+#main #vertnav p a:visited {
+	background-color: #1F1F1F;
+}
+#main #vertnav p a:hover {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 23px;
+	color: #AFD95C;
+	background-color: #666;
+	font-style: italic;
+	font-weight: bold;
+}
+#main #vertnav p a:active {
+	background-color: #C93;
+}
+
+
+#main {
+	margin-right: auto;
+	margin-left: auto;
+	width: 935px;
+	padding-right: 50px;
+}
+.main {
+	margin-right: auto;
+	margin-left: auto;
+	width: 900px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+#location_map {
+	text-align: left;
+	height: 350px;
+	width: 400px;
+	float: left;
+	margin: 25px;
+
+}
+#reviews {
+	margin: 30px;
+}
+.signatures {
+	margin: 0px 0px 0px 40px;
+}
+
+body {
+	margin: 0px;
+	background-color: #9BB1C9;
+	background-image: url(Images/dhukdgu-3.jpg);
+	background-repeat: no-repeat;
+	background-position: right bottom;	
+}
+
+h3 {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	color: #000;
+	font-weight: bold;
+	line-height: 0px;
+}
